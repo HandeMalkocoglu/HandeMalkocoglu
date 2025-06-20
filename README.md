@@ -16,7 +16,7 @@
   </a>
 </div>
 
-Got an awesome idea or a challenging project? Reach out to me at [**Mail**](mailto:handemalkocoglu@hotmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/barisgol/). I'm always excited to collaborate on interesting projects or discuss Front-End development ideas!
+Got an awesome idea or a challenging project? Reach out to me at [**Mail**](mailto:handemalkocoglu@hotmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/hande-malko%C3%A7o%C4%9Flu-232761110/). I'm always excited to collaborate on interesting projects or discuss Front-End development ideas!
 
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=110&section=footer" />
